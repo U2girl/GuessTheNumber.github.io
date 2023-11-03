@@ -1,0 +1,19 @@
+body {
+background-color: yellow;
+background: url("genie-icon-vector-8855795.jpg");
+background-size: 1400px;
+color: purple;
+font-family: cursive; fantasy;
+font-size: 140%;
+/* font-style: oblique; */
+text-align: right; 
+width: 95%;
+height: 100%;
+}
+
+/* img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+} */
